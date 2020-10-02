@@ -34,3 +34,5 @@ G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\MVCCore
 G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\MVCCoreUsers.pdb
 G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\MVCCoreUsers.genruntimeconfig.cache
 G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\MVCCoreUsers.csproj.CopyComplete
+G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\MVCCoreUsers.csprojAssemblyReference.cache
+G:\EjerciciosMTWDM2020\MVCCoreUsers\MVCCoreUsers\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
